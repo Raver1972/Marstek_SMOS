@@ -1,0 +1,10 @@
+{
+  "domain": "marstek_smos",
+  "name": "Marstek SMOS",
+  "version": "0.0.1-alpha",
+  "config_flow": true,
+  "documentation": "https://github.com/raver1972/Marstek_SMOS",
+  "iot_class": "local_polling",
+  "dependencies": [],
+  "after_dependencies": ["mqtt"]
+}
