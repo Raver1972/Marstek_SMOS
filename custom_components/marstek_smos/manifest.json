@@ -5,6 +5,7 @@
   "config_flow": true,
   "documentation": "https://github.com/raver1972/Marstek_SMOS",
   "iot_class": "local_polling",
+  "codeowners": ["@raver1972"],
   "dependencies": [],
   "after_dependencies": ["mqtt"]
 }
