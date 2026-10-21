@@ -1,0 +1,22 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "data": {
+          "selected_entity": "P1 Meter Entity"
+        }
+      },
+      "reconfigure": {
+        "data": {
+          "selected_entity": "P1 Meter Entity"
+        }
+      }
+    },
+    "error": {
+      "no_p1_entities_found": "No P1 entities found matching the criteria."
+    },
+    "abort": {
+      "already_configured": "The Marstek SMOS integration is already configured. Only one instance is allowed."
+    }
+  }
+}
